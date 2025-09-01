@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-scraper//EN
+X-WR-CALNAME:Competitive Programming Contests
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cf-2145@contest-scraper
+SUMMARY:Codeforces: Educational Codeforces Round 183 (Rated for Div. 2)
+DTSTART:20250929T143500Z
+DTEND:20250929T163500Z
+DESCRIPTION:https://codeforces.com/contest/2145\nType: ICPC
+URL:https://codeforces.com/contest/2145
+DTSTAMP:20250929T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2143@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20250917T143500Z
+DTEND:20250917T163500Z
+DESCRIPTION:https://codeforces.com/contest/2143\nType: CF
+URL:https://codeforces.com/contest/2143
+DTSTAMP:20250917T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2144@contest-scraper
+SUMMARY:Codeforces: Educational Codeforces Round 182 (Rated for Div. 2)
+DTSTART:20250915T143500Z
+DTEND:20250915T163500Z
+DESCRIPTION:https://codeforces.com/contest/2144\nType: ICPC
+URL:https://codeforces.com/contest/2144
+DTSTAMP:20250915T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2141@contest-scraper
+SUMMARY:Codeforces: Kotlin Heroes: Episode 13
+DTSTART:20250912T143500Z
+DTEND:20250912T170500Z
+DESCRIPTION:https://codeforces.com/contest/2141\nType: ICPC
+URL:https://codeforces.com/contest/2141
+DTSTAMP:20250912T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2140@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20250909T143500Z
+DTEND:20250909T163500Z
+DESCRIPTION:https://codeforces.com/contest/2140\nType: CF
+URL:https://codeforces.com/contest/2140
+DTSTAMP:20250909T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2138@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 1)
+DTSTART:20250908T143500Z
+DTEND:20250908T173500Z
+DESCRIPTION:https://codeforces.com/contest/2138\nType: CF
+URL:https://codeforces.com/contest/2138
+DTSTAMP:20250908T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2139@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20250908T143500Z
+DTEND:20250908T173500Z
+DESCRIPTION:https://codeforces.com/contest/2139\nType: CF
+URL:https://codeforces.com/contest/2139
+DTSTAMP:20250908T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2137@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 3)
+DTSTART:20250907T143500Z
+DTEND:20250907T165000Z
+DESCRIPTION:https://codeforces.com/contest/2137\nType: ICPC
+URL:https://codeforces.com/contest/2137
+DTSTAMP:20250907T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2142@contest-scraper
+SUMMARY:Codeforces: Kotlin Heroes: Practice 13
+DTSTART:20250905T143500Z
+DTEND:20250917T143500Z
+DESCRIPTION:https://codeforces.com/contest/2142\nType: ICPC
+URL:https://codeforces.com/contest/2142
+DTSTAMP:20250905T143500Z
+END:VEVENT
+END:VCALENDAR
