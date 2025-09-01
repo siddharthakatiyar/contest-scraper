@@ -62,8 +62,7 @@ def write_index(path: str):
         <h1>Contest ICS Feeds</h1>
     <p>Subscribe this URL in your calendar app:</p>
     <p><code>{ICS_URL}</code></p>
-    <p><a href="{ICS_URL}">Open codeforces.ics</a></p>
-        <p>Tip: In Google Calendar, use <b>Settings &gt; Add calendar &gt; From URL</b>.</p>
+    <p>Tip: In Google Calendar, use <b>Settings &gt; Add calendar &gt; From URL</b>.</p>
     </body>
  </html>
 """.strip()
