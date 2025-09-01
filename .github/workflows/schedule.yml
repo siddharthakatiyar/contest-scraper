@@ -1,0 +1,44 @@
+name: Generate ICS feed
+
+on:
+  schedule:
+    - cron: '30 2,14 * * *'  # Twice daily at 02:30 and 14:30 UTC
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate ICS
+        run: |
+          mkdir -p dist
+          python -m src.main
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ics
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        if: ${{ github.ref == 'refs/heads/main' }}
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: gh-pages

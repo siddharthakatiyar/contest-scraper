@@ -1,0 +1,13 @@
+[project]
+name = "contest-scraper"
+version = "0.1.0"
+description = "Sync Codeforces contests to Google Calendar"
+authors = [{ name = "you" }]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "requests>=2.32.3"
+]
+
+[project.scripts]
+contest-scraper = "src.main:main"

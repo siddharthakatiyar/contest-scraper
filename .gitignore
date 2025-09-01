@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Credentials (do not commit)
+credentials.json
+token.json
+service_account.json
+
+# VS Code
+.vscode/
