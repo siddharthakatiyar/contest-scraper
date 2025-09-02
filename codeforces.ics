@@ -76,13 +76,4 @@ DESCRIPTION:https://codeforces.com/contest/2137\nType: ICPC
 URL:https://codeforces.com/contest/2137
 DTSTAMP:20250907T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2142@contest-scraper
-SUMMARY:Codeforces: Kotlin Heroes: Practice 13
-DTSTART:20250905T143500Z
-DTEND:20250917T143500Z
-DESCRIPTION:https://codeforces.com/contest/2142\nType: ICPC
-URL:https://codeforces.com/contest/2142
-DTSTAMP:20250905T143500Z
-END:VEVENT
 END:VCALENDAR
