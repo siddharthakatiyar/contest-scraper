@@ -94,13 +94,4 @@ DESCRIPTION:https://codeforces.com/contest/2139\nType: CF
 URL:https://codeforces.com/contest/2139
 DTSTAMP:20250908T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2137@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1047 (Div. 3)
-DTSTART:20250907T143500Z
-DTEND:20250907T165000Z
-DESCRIPTION:https://codeforces.com/contest/2137\nType: ICPC
-URL:https://codeforces.com/contest/2137
-DTSTAMP:20250907T143500Z
-END:VEVENT
 END:VCALENDAR
