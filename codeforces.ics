@@ -67,13 +67,4 @@ DESCRIPTION:https://codeforces.com/contest/2141\nType: ICPC
 URL:https://codeforces.com/contest/2141
 DTSTAMP:20250912T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2140@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1049 (Div. 2)
-DTSTART:20250909T143500Z
-DTEND:20250909T163500Z
-DESCRIPTION:https://codeforces.com/contest/2140\nType: CF
-URL:https://codeforces.com/contest/2140
-DTSTAMP:20250909T143500Z
-END:VEVENT
 END:VCALENDAR
