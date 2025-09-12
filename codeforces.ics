@@ -14,6 +14,15 @@ URL:https://codeforces.com/contest/2145
 DTSTAMP:20250929T143500Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf-2149@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 3)
+DTSTART:20250925T143500Z
+DTEND:20250925T165000Z
+DESCRIPTION:https://codeforces.com/contest/2149\nType: ICPC
+URL:https://codeforces.com/contest/2149
+DTSTAMP:20250925T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2146@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 2)
 DTSTART:20250921T143500Z
@@ -57,14 +66,5 @@ DTEND:20250913T165000Z
 DESCRIPTION:https://codeforces.com/contest/2148\nType: ICPC
 URL:https://codeforces.com/contest/2148
 DTSTAMP:20250913T143500Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-2141@contest-scraper
-SUMMARY:Codeforces: Kotlin Heroes: Episode 13
-DTSTART:20250912T143500Z
-DTEND:20250912T170500Z
-DESCRIPTION:https://codeforces.com/contest/2141\nType: ICPC
-URL:https://codeforces.com/contest/2141
-DTSTAMP:20250912T143500Z
 END:VEVENT
 END:VCALENDAR
