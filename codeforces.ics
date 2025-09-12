@@ -24,7 +24,7 @@ DTSTAMP:20250921T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2147@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 1 + Div. 2)
+SUMMARY:Codeforces: Codeforces Global Round 29 (Div. 1 + Div. 2)
 DTSTART:20250920T143500Z
 DTEND:20250920T173500Z
 DESCRIPTION:https://codeforces.com/contest/2147\nType: CF
