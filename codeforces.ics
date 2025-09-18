@@ -14,6 +14,15 @@ URL:https://codeforces.com/contest/2145
 DTSTAMP:20251006T143500Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf-2152@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 1 + Div. 2)
+DTSTART:20251003T143500Z
+DTEND:20251003T173500Z
+DESCRIPTION:https://codeforces.com/contest/2152\nType: CF
+URL:https://codeforces.com/contest/2152
+DTSTAMP:20251003T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2149@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 3)
 DTSTART:20250925T143500Z
