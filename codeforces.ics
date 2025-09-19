@@ -24,7 +24,7 @@ DTSTAMP:20251003T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2149@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 3)
+SUMMARY:Codeforces: Codeforces Round 1054 (Div. 3)
 DTSTART:20250925T143500Z
 DTEND:20250925T165000Z
 DESCRIPTION:https://codeforces.com/contest/2149\nType: ICPC
