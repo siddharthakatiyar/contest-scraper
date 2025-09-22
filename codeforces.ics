@@ -5,6 +5,15 @@ X-WR-CALNAME:Competitive Programming Contests
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:cf-2153@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20251010T143500Z
+DTEND:20251010T163500Z
+DESCRIPTION:https://codeforces.com/contest/2153\nType: CF
+URL:https://codeforces.com/contest/2153
+DTSTAMP:20251010T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2145@contest-scraper
 SUMMARY:Codeforces: Educational Codeforces Round 183 (Rated for Div. 2)
 DTSTART:20251006T143500Z
