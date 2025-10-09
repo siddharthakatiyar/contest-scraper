@@ -23,6 +23,15 @@ URL:https://codeforces.com/contest/2154
 DTSTAMP:20251019T143500Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf-2162@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 3)
+DTSTART:20251017T143500Z
+DTEND:20251017T165000Z
+DESCRIPTION:https://codeforces.com/contest/2162\nType: ICPC
+URL:https://codeforces.com/contest/2162
+DTSTAMP:20251017T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2159@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 1)
 DTSTART:20251012T143500Z
