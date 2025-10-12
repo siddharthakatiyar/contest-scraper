@@ -31,22 +31,4 @@ DESCRIPTION:https://codeforces.com/contest/2162\nType: ICPC
 URL:https://codeforces.com/contest/2162
 DTSTAMP:20251017T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2159@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1058 (Div. 1)
-DTSTART:20251012T143500Z
-DTEND:20251012T170500Z
-DESCRIPTION:https://codeforces.com/contest/2159\nType: CF
-URL:https://codeforces.com/contest/2159
-DTSTAMP:20251012T143500Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-2160@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1058 (Div. 2)
-DTSTART:20251012T143500Z
-DTEND:20251012T170500Z
-DESCRIPTION:https://codeforces.com/contest/2160\nType: CF
-URL:https://codeforces.com/contest/2160
-DTSTAMP:20251012T143500Z
-END:VEVENT
 END:VCALENDAR
