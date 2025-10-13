@@ -5,6 +5,42 @@ X-WR-CALNAME:Competitive Programming Contests
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:cf-2165@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 1)
+DTSTART:20251116T143500Z
+DTEND:20251116T163500Z
+DESCRIPTION:https://codeforces.com/contest/2165\nType: CF
+URL:https://codeforces.com/contest/2165
+DTSTAMP:20251116T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2166@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20251116T143500Z
+DTEND:20251116T163500Z
+DESCRIPTION:https://codeforces.com/contest/2166\nType: CF
+URL:https://codeforces.com/contest/2166
+DTSTAMP:20251116T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2164@contest-scraper
+SUMMARY:Codeforces: Codeforces Global Round 30 (Div. 1 + Div. 2)
+DTSTART:20251105T143500Z
+DTEND:20251105T173500Z
+DESCRIPTION:https://codeforces.com/contest/2164\nType: CF
+URL:https://codeforces.com/contest/2164
+DTSTAMP:20251105T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2161@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 1 + Div. 2)
+DTSTART:20251030T143500Z
+DTEND:20251030T163500Z
+DESCRIPTION:https://codeforces.com/contest/2161\nType: CF
+URL:https://codeforces.com/contest/2161
+DTSTAMP:20251030T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2156@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 2)
 DTSTART:20251024T143500Z
