@@ -60,7 +60,7 @@ DTSTAMP:20251019T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2162@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 3)
+SUMMARY:Codeforces: Codeforces Round 1059 (Div. 3)
 DTSTART:20251017T143500Z
 DTEND:20251017T165000Z
 DESCRIPTION:https://codeforces.com/contest/2162\nType: ICPC
