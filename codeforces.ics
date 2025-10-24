@@ -49,13 +49,4 @@ DESCRIPTION:https://codeforces.com/contest/2167\nType: ICPC
 URL:https://codeforces.com/contest/2167
 DTSTAMP:20251028T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2156@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1061 (Div. 2)
-DTSTART:20251024T143500Z
-DTEND:20251024T163500Z
-DESCRIPTION:https://codeforces.com/contest/2156\nType: CF
-URL:https://codeforces.com/contest/2156
-DTSTAMP:20251024T143500Z
-END:VEVENT
 END:VCALENDAR
