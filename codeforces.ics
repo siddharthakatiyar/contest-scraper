@@ -40,13 +40,4 @@ DESCRIPTION:https://codeforces.com/contest/2161\nType: CF
 URL:https://codeforces.com/contest/2161
 DTSTAMP:20251030T163500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2167@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1062 (Div. 4)
-DTSTART:20251028T143500Z
-DTEND:20251028T165000Z
-DESCRIPTION:https://codeforces.com/contest/2167\nType: ICPC
-URL:https://codeforces.com/contest/2167
-DTSTAMP:20251028T143500Z
-END:VEVENT
 END:VCALENDAR
