@@ -23,6 +23,15 @@ URL:https://codeforces.com/contest/2166
 DTSTAMP:20251116T143500Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf-2163@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20251110T150500Z
+DTEND:20251110T170500Z
+DESCRIPTION:https://codeforces.com/contest/2163\nType: CF
+URL:https://codeforces.com/contest/2163
+DTSTAMP:20251110T150500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2164@contest-scraper
 SUMMARY:Codeforces: Codeforces Global Round 30 (Div. 1 + Div. 2)
 DTSTART:20251106T143500Z
@@ -30,5 +39,14 @@ DTEND:20251106T173500Z
 DESCRIPTION:https://codeforces.com/contest/2164\nType: CF
 URL:https://codeforces.com/contest/2164
 DTSTAMP:20251106T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2168@contest-scraper
+SUMMARY:Codeforces: Testing Round 20 (Unrated)
+DTSTART:20251103T143500Z
+DTEND:20251103T153500Z
+DESCRIPTION:https://codeforces.com/contest/2168\nType: ICPC
+URL:https://codeforces.com/contest/2168
+DTSTAMP:20251103T143500Z
 END:VEVENT
 END:VCALENDAR
