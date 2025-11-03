@@ -42,7 +42,7 @@ DTSTAMP:20251106T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2168@contest-scraper
-SUMMARY:Codeforces: Testing Round 20 (Unrated)
+SUMMARY:Codeforces: Testing Round 20 (Unrated, Communication Problems)
 DTSTART:20251103T143500Z
 DTEND:20251103T153500Z
 DESCRIPTION:https://codeforces.com/contest/2168\nType: ICPC
