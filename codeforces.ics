@@ -49,13 +49,4 @@ DESCRIPTION:https://codeforces.com/contest/2163\nType: CF
 URL:https://codeforces.com/contest/2163
 DTSTAMP:20251110T150500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2164@contest-scraper
-SUMMARY:Codeforces: Codeforces Global Round 30 (Div. 1 + Div. 2)
-DTSTART:20251106T143500Z
-DTEND:20251106T173500Z
-DESCRIPTION:https://codeforces.com/contest/2164\nType: CF
-URL:https://codeforces.com/contest/2164
-DTSTAMP:20251106T143500Z
-END:VEVENT
 END:VCALENDAR
