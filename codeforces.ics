@@ -51,7 +51,7 @@ DTSTAMP:20251114T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2163@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
+SUMMARY:Codeforces: Codeforces Round 1063 (Div. 2)
 DTSTART:20251110T150500Z
 DTEND:20251110T170500Z
 DESCRIPTION:https://codeforces.com/contest/2163\nType: CF
