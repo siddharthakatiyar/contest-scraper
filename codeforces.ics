@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:cf-2165@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 1)
 DTSTART:20251116T143500Z
-DTEND:20251116T163500Z
+DTEND:20251116T170500Z
 DESCRIPTION:https://codeforces.com/contest/2165\nType: CF
 URL:https://codeforces.com/contest/2165
 DTSTAMP:20251116T143500Z
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 UID:cf-2166@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 2)
 DTSTART:20251116T143500Z
-DTEND:20251116T163500Z
+DTEND:20251116T170500Z
 DESCRIPTION:https://codeforces.com/contest/2166\nType: CF
 URL:https://codeforces.com/contest/2166
 DTSTAMP:20251116T143500Z
