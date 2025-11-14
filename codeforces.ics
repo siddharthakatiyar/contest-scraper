@@ -58,13 +58,4 @@ DESCRIPTION:https://codeforces.com/contest/2172\nType: ICPC
 URL:https://codeforces.com/contest/2172
 DTSTAMP:20251116T013500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2169@contest-scraper
-SUMMARY:Codeforces: Educational Codeforces Round 184 (Rated for Div. 2)
-DTSTART:20251114T143500Z
-DTEND:20251114T163500Z
-DESCRIPTION:https://codeforces.com/contest/2169\nType: ICPC
-URL:https://codeforces.com/contest/2169
-DTSTAMP:20251114T143500Z
-END:VEVENT
 END:VCALENDAR
