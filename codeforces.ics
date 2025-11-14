@@ -26,14 +26,14 @@ BEGIN:VEVENT
 UID:cf-2171@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 3)
 DTSTART:20251118T143500Z
-DTEND:20251118T165000Z
+DTEND:20251118T170500Z
 DESCRIPTION:https://codeforces.com/contest/2171\nType: ICPC
 URL:https://codeforces.com/contest/2171
 DTSTAMP:20251118T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2165@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 1)
+SUMMARY:Codeforces: Codeforces Round 1064 (Div. 1)
 DTSTART:20251116T143500Z
 DTEND:20251116T170500Z
 DESCRIPTION:https://codeforces.com/contest/2165\nType: CF
@@ -42,7 +42,7 @@ DTSTAMP:20251116T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2166@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
+SUMMARY:Codeforces: Codeforces Round 1064 (Div. 2)
 DTSTART:20251116T143500Z
 DTEND:20251116T170500Z
 DESCRIPTION:https://codeforces.com/contest/2166\nType: CF
