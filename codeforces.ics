@@ -49,13 +49,4 @@ DESCRIPTION:https://codeforces.com/contest/2166\nType: CF
 URL:https://codeforces.com/contest/2166
 DTSTAMP:20251116T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2172@contest-scraper
-SUMMARY:Codeforces: 2025 ICPC Asia Taichung Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)
-DTSTART:20251116T013500Z
-DTEND:20251116T063500Z
-DESCRIPTION:https://codeforces.com/contest/2172\nType: ICPC
-URL:https://codeforces.com/contest/2172
-DTSTAMP:20251116T013500Z
-END:VEVENT
 END:VCALENDAR
