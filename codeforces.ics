@@ -24,7 +24,7 @@ DTSTAMP:20251123T093500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2171@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 3)
+SUMMARY:Codeforces: Codeforces Round 1065 (Div. 3)
 DTSTART:20251118T143500Z
 DTEND:20251118T170500Z
 DESCRIPTION:https://codeforces.com/contest/2171\nType: ICPC
