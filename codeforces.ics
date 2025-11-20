@@ -31,13 +31,4 @@ DESCRIPTION:https://codeforces.com/contest/2157\nType: CF
 URL:https://codeforces.com/contest/2157
 DTSTAMP:20251123T093500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2171@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1065 (Div. 3)
-DTSTART:20251120T143500Z
-DTEND:20251120T170500Z
-DESCRIPTION:https://codeforces.com/contest/2171\nType: ICPC
-URL:https://codeforces.com/contest/2171
-DTSTAMP:20251120T143500Z
-END:VEVENT
 END:VCALENDAR
