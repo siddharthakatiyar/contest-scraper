@@ -22,13 +22,4 @@ DESCRIPTION:https://codeforces.com/contest/2170\nType: ICPC
 URL:https://codeforces.com/contest/2170
 DTSTAMP:20251128T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2157@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1066 (Div. 1 + Div. 2)
-DTSTART:20251123T093500Z
-DTEND:20251123T123500Z
-DESCRIPTION:https://codeforces.com/contest/2157\nType: CF
-URL:https://codeforces.com/contest/2157
-DTSTAMP:20251123T093500Z
-END:VEVENT
 END:VCALENDAR
