@@ -22,13 +22,4 @@ DESCRIPTION:https://codeforces.com/contest/2158\nType: CF
 URL:https://codeforces.com/contest/2158
 DTSTAMP:20251129T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2170@contest-scraper
-SUMMARY:Codeforces: Educational Codeforces Round 185 (Rated for Div. 2)
-DTSTART:20251128T143500Z
-DTEND:20251128T163500Z
-DESCRIPTION:https://codeforces.com/contest/2170\nType: ICPC
-URL:https://codeforces.com/contest/2170
-DTSTAMP:20251128T143500Z
-END:VEVENT
 END:VCALENDAR
