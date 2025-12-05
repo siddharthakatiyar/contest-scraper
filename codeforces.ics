@@ -31,13 +31,4 @@ DESCRIPTION:https://codeforces.com/contest/2175\nType: CF
 URL:https://codeforces.com/contest/2175
 DTSTAMP:20251206T081500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2173@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1068 (Div. 2)
-DTSTART:20251205T143500Z
-DTEND:20251205T163500Z
-DESCRIPTION:https://codeforces.com/contest/2173\nType: CF
-URL:https://codeforces.com/contest/2173
-DTSTAMP:20251205T143500Z
-END:VEVENT
 END:VCALENDAR
