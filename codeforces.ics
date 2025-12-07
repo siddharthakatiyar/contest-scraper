@@ -5,6 +5,24 @@ X-WR-CALNAME:Competitive Programming Contests
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:cf-2178@contest-scraper
+SUMMARY:Codeforces: Good Bye 2025
+DTSTART:20251227T143500Z
+DTEND:20251227T173500Z
+DESCRIPTION:https://codeforces.com/contest/2178\nType: CF
+URL:https://codeforces.com/contest/2178
+DTSTAMP:20251227T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2179@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 3)
+DTSTART:20251223T143500Z
+DTEND:20251223T170500Z
+DESCRIPTION:https://codeforces.com/contest/2179\nType: ICPC
+URL:https://codeforces.com/contest/2179
+DTSTAMP:20251223T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2177@contest-scraper
 SUMMARY:Codeforces: ICPC 2025 Online Winter Challenge powered by Huawei
 DTSTART:20251219T110000Z
