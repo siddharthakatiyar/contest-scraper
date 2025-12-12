@@ -40,4 +40,13 @@ DESCRIPTION:https://codeforces.com/contest/2180\nType: CF
 URL:https://codeforces.com/contest/2180
 DTSTAMP:20251219T143500Z
 END:VEVENT
+BEGIN:VEVENT
+UID:cf-2181@contest-scraper
+SUMMARY:Codeforces: 2025-2026 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)
+DTSTART:20251217T080500Z
+DTEND:20251217T130500Z
+DESCRIPTION:https://codeforces.com/contest/2181\nType: ICPC
+URL:https://codeforces.com/contest/2181
+DTSTAMP:20251217T080500Z
+END:VEVENT
 END:VCALENDAR
