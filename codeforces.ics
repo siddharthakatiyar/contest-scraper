@@ -5,6 +5,15 @@ X-WR-CALNAME:Competitive Programming Contests
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:cf-2182@contest-scraper
+SUMMARY:Codeforces: Educational Codeforces Round 186 (Rated for Div. 2)
+DTSTART:20251229T143500Z
+DTEND:20251229T163500Z
+DESCRIPTION:https://codeforces.com/contest/2182\nType: ICPC
+URL:https://codeforces.com/contest/2182
+DTSTAMP:20251229T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2178@contest-scraper
 SUMMARY:Codeforces: Good Bye 2025
 DTSTART:20251227T143500Z
@@ -30,14 +39,5 @@ DTEND:20251223T170500Z
 DESCRIPTION:https://codeforces.com/contest/2179\nType: ICPC
 URL:https://codeforces.com/contest/2179
 DTSTAMP:20251223T143500Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-2180@contest-scraper
-SUMMARY:Codeforces: Codeforces Global Round 31 (Div. 1 + Div. 2)
-DTSTART:20251219T143500Z
-DTEND:20251219T170500Z
-DESCRIPTION:https://codeforces.com/contest/2180\nType: CF
-URL:https://codeforces.com/contest/2180
-DTSTAMP:20251219T143500Z
 END:VEVENT
 END:VCALENDAR
