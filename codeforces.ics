@@ -33,7 +33,7 @@ DTSTAMP:20251226T110000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2179@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 3)
+SUMMARY:Codeforces: Codeforces Round 1071 (Div. 3)
 DTSTART:20251223T143500Z
 DTEND:20251223T170500Z
 DESCRIPTION:https://codeforces.com/contest/2179\nType: ICPC
