@@ -5,6 +5,15 @@ X-WR-CALNAME:Competitive Programming Contests
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:cf-2183@contest-scraper
+SUMMARY:Codeforces: Hello 2026
+DTSTART:20260107T143500Z
+DTEND:20260107T173500Z
+DESCRIPTION:https://codeforces.com/contest/2183\nType: CF
+URL:https://codeforces.com/contest/2183
+DTSTAMP:20260107T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2182@contest-scraper
 SUMMARY:Codeforces: Educational Codeforces Round 186 (Rated for Div. 2)
 DTSTART:20251229T143500Z
