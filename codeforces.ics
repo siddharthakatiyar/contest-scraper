@@ -31,13 +31,4 @@ DESCRIPTION:https://codeforces.com/contest/2178\nType: CF
 URL:https://codeforces.com/contest/2178
 DTSTAMP:20251227T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2177@contest-scraper
-SUMMARY:Codeforces: ICPC 2025 Online Winter Challenge powered by Huawei
-DTSTART:20251226T110000Z
-DTEND:20260111T110000Z
-DESCRIPTION:https://codeforces.com/contest/2177\nType: IOI
-URL:https://codeforces.com/contest/2177
-DTSTAMP:20251226T110000Z
-END:VEVENT
 END:VCALENDAR
