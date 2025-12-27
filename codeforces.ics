@@ -31,13 +31,4 @@ DESCRIPTION:https://codeforces.com/contest/2182\nType: ICPC
 URL:https://codeforces.com/contest/2182
 DTSTAMP:20251229T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2178@contest-scraper
-SUMMARY:Codeforces: Good Bye 2025
-DTSTART:20251227T143500Z
-DTEND:20251227T173500Z
-DESCRIPTION:https://codeforces.com/contest/2178\nType: CF
-URL:https://codeforces.com/contest/2178
-DTSTAMP:20251227T143500Z
-END:VEVENT
 END:VCALENDAR
