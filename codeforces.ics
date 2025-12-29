@@ -22,13 +22,4 @@ DESCRIPTION:https://codeforces.com/contest/2183\nType: CF
 URL:https://codeforces.com/contest/2183
 DTSTAMP:20260107T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2182@contest-scraper
-SUMMARY:Codeforces: Educational Codeforces Round 186 (Rated for Div. 2)
-DTSTART:20251229T143500Z
-DTEND:20251229T163500Z
-DESCRIPTION:https://codeforces.com/contest/2182\nType: ICPC
-URL:https://codeforces.com/contest/2182
-DTSTAMP:20251229T143500Z
-END:VEVENT
 END:VCALENDAR
