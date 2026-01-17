@@ -40,22 +40,4 @@ DESCRIPTION:https://codeforces.com/contest/2185\nType: ICPC
 URL:https://codeforces.com/contest/2185
 DTSTAMP:20260118T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2190@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1073 (Div. 1)
-DTSTART:20260117T143500Z
-DTEND:20260117T173500Z
-DESCRIPTION:https://codeforces.com/contest/2190\nType: CF
-URL:https://codeforces.com/contest/2190
-DTSTAMP:20260117T143500Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-2191@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1073 (Div. 2)
-DTSTART:20260117T143500Z
-DTEND:20260117T173500Z
-DESCRIPTION:https://codeforces.com/contest/2191\nType: CF
-URL:https://codeforces.com/contest/2191
-DTSTAMP:20260117T143500Z
-END:VEVENT
 END:VCALENDAR
