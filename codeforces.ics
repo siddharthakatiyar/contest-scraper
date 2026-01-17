@@ -6,7 +6,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:cf-2187@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 1)
+SUMMARY:Codeforces: Codeforces Round 1076 (Div. 1)
 DTSTART:20260129T143500Z
 DTEND:20260129T170500Z
 DESCRIPTION:https://codeforces.com/contest/2187\nType: CF
@@ -15,7 +15,7 @@ DTSTAMP:20260129T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2188@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
+SUMMARY:Codeforces: Codeforces Round 1076 (Div. 2)
 DTSTART:20260129T143500Z
 DTEND:20260129T170500Z
 DESCRIPTION:https://codeforces.com/contest/2188\nType: CF
@@ -24,7 +24,7 @@ DTSTAMP:20260129T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2189@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
+SUMMARY:Codeforces: Codeforces Round 1075 (Div. 2)
 DTSTART:20260123T143500Z
 DTEND:20260123T163500Z
 DESCRIPTION:https://codeforces.com/contest/2189\nType: CF
@@ -33,7 +33,7 @@ DTSTAMP:20260123T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2185@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 4)
+SUMMARY:Codeforces: Codeforces Round 1074 (Div. 4)
 DTSTART:20260118T143500Z
 DTEND:20260118T165000Z
 DESCRIPTION:https://codeforces.com/contest/2185\nType: ICPC
