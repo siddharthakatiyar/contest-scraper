@@ -31,13 +31,4 @@ DESCRIPTION:https://codeforces.com/contest/2189\nType: CF
 URL:https://codeforces.com/contest/2189
 DTSTAMP:20260123T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2185@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1074 (Div. 4)
-DTSTART:20260118T143500Z
-DTEND:20260118T165000Z
-DESCRIPTION:https://codeforces.com/contest/2185\nType: ICPC
-URL:https://codeforces.com/contest/2185
-DTSTAMP:20260118T143500Z
-END:VEVENT
 END:VCALENDAR
