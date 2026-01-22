@@ -26,7 +26,7 @@ BEGIN:VEVENT
 UID:cf-2187@contest-scraper
 SUMMARY:Codeforces: Codeforces Round 1077 (Div. 1)
 DTSTART:20260129T143500Z
-DTEND:20260129T170500Z
+DTEND:20260129T173500Z
 DESCRIPTION:https://codeforces.com/contest/2187\nType: CF
 URL:https://codeforces.com/contest/2187
 DTSTAMP:20260129T143500Z
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:cf-2188@contest-scraper
 SUMMARY:Codeforces: Codeforces Round 1077 (Div. 2)
 DTSTART:20260129T143500Z
-DTEND:20260129T170500Z
+DTEND:20260129T173500Z
 DESCRIPTION:https://codeforces.com/contest/2188\nType: CF
 URL:https://codeforces.com/contest/2188
 DTSTAMP:20260129T143500Z
