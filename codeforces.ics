@@ -49,13 +49,4 @@ DESCRIPTION:https://codeforces.com/contest/2193\nType: ICPC
 URL:https://codeforces.com/contest/2193
 DTSTAMP:20260125T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2189@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1075 (Div. 2)
-DTSTART:20260123T143500Z
-DTEND:20260123T163500Z
-DESCRIPTION:https://codeforces.com/contest/2189\nType: CF
-URL:https://codeforces.com/contest/2189
-DTSTAMP:20260123T143500Z
-END:VEVENT
 END:VCALENDAR
