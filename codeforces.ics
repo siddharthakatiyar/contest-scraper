@@ -5,6 +5,15 @@ X-WR-CALNAME:Competitive Programming Contests
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:cf-2195@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 3)
+DTSTART:20260215T143500Z
+DTEND:20260215T165000Z
+DESCRIPTION:https://codeforces.com/contest/2195\nType: ICPC
+URL:https://codeforces.com/contest/2195
+DTSTAMP:20260215T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2194@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 2)
 DTSTART:20260208T090500Z
