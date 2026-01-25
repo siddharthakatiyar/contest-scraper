@@ -49,13 +49,4 @@ DESCRIPTION:https://codeforces.com/contest/2188\nType: CF
 URL:https://codeforces.com/contest/2188
 DTSTAMP:20260129T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2193@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1076 (Div. 3)
-DTSTART:20260125T143500Z
-DTEND:20260125T165000Z
-DESCRIPTION:https://codeforces.com/contest/2193\nType: ICPC
-URL:https://codeforces.com/contest/2193
-DTSTAMP:20260125T143500Z
-END:VEVENT
 END:VCALENDAR
