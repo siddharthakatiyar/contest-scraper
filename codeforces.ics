@@ -58,13 +58,4 @@ DESCRIPTION:https://codeforces.com/contest/2194\nType: CF
 URL:https://codeforces.com/contest/2194
 DTSTAMP:20260208T090500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2192@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
-DTSTART:20260207T143500Z
-DTEND:20260207T163500Z
-DESCRIPTION:https://codeforces.com/contest/2192\nType: CF
-URL:https://codeforces.com/contest/2192
-DTSTAMP:20260207T143500Z
-END:VEVENT
 END:VCALENDAR
