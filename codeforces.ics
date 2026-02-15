@@ -49,13 +49,4 @@ DESCRIPTION:https://codeforces.com/contest/2198\nType: ICPC
 URL:https://codeforces.com/contest/2198
 DTSTAMP:20260221T143000Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2195@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1080 (Div. 3)
-DTSTART:20260215T143500Z
-DTEND:20260215T170500Z
-DESCRIPTION:https://codeforces.com/contest/2195\nType: ICPC
-URL:https://codeforces.com/contest/2195
-DTSTAMP:20260215T143500Z
-END:VEVENT
 END:VCALENDAR
