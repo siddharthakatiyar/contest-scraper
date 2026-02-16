@@ -41,6 +41,15 @@ URL:https://codeforces.com/contest/2202
 DTSTAMP:20260222T143500Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf-2192@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20260221T143500Z
+DTEND:20260221T163500Z
+DESCRIPTION:https://codeforces.com/contest/2192\nType: CF
+URL:https://codeforces.com/contest/2192
+DTSTAMP:20260221T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2198@contest-scraper
 SUMMARY:Codeforces: Kotlin Heroes: Practice 14
 DTSTART:20260221T143000Z
