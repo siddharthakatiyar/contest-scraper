@@ -32,6 +32,15 @@ URL:https://codeforces.com/contest/2200
 DTSTAMP:20260227T143500Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf-2205@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20260226T143500Z
+DTEND:20260226T163500Z
+DESCRIPTION:https://codeforces.com/contest/2205\nType: CF
+URL:https://codeforces.com/contest/2205
+DTSTAMP:20260226T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2203@contest-scraper
 SUMMARY:Codeforces: Educational Codeforces Round 187 (Rated for Div. 2)
 DTSTART:20260224T143500Z
