@@ -53,7 +53,7 @@ BEGIN:VEVENT
 UID:cf-2201@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 1)
 DTSTART:20260223T143500Z
-DTEND:20260223T173500Z
+DTEND:20260223T170500Z
 DESCRIPTION:https://codeforces.com/contest/2201\nType: CF
 URL:https://codeforces.com/contest/2201
 DTSTAMP:20260223T143500Z
@@ -62,27 +62,9 @@ BEGIN:VEVENT
 UID:cf-2202@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 2)
 DTSTART:20260223T143500Z
-DTEND:20260223T173500Z
+DTEND:20260223T170500Z
 DESCRIPTION:https://codeforces.com/contest/2202\nType: CF
 URL:https://codeforces.com/contest/2202
 DTSTAMP:20260223T143500Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-2192@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1081 (Div. 2)
-DTSTART:20260221T143500Z
-DTEND:20260221T163500Z
-DESCRIPTION:https://codeforces.com/contest/2192\nType: CF
-URL:https://codeforces.com/contest/2192
-DTSTAMP:20260221T143500Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-2198@contest-scraper
-SUMMARY:Codeforces: Kotlin Heroes: Practice 14
-DTSTART:20260221T143000Z
-DTEND:20260302T143000Z
-DESCRIPTION:https://codeforces.com/contest/2198\nType: ICPC
-URL:https://codeforces.com/contest/2198
-DTSTAMP:20260221T143000Z
 END:VEVENT
 END:VCALENDAR
