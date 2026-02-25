@@ -14,6 +14,15 @@ URL:https://codeforces.com/contest/2204
 DTSTAMP:20260316T143500Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf-2206@contest-scraper
+SUMMARY:Codeforces: 2026 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)
+DTSTART:20260308T014500Z
+DTEND:20260308T064500Z
+DESCRIPTION:https://codeforces.com/contest/2206\nType: ICPC
+URL:https://codeforces.com/contest/2206
+DTSTAMP:20260308T014500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2199@contest-scraper
 SUMMARY:Codeforces: Kotlin Heroes: Episode 14
 DTSTART:20260302T143500Z
@@ -39,14 +48,5 @@ DTEND:20260226T170500Z
 DESCRIPTION:https://codeforces.com/contest/2205\nType: CF
 URL:https://codeforces.com/contest/2205
 DTSTAMP:20260226T143500Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-2203@contest-scraper
-SUMMARY:Codeforces: Educational Codeforces Round 187 (Rated for Div. 2)
-DTSTART:20260225T143500Z
-DTEND:20260225T163500Z
-DESCRIPTION:https://codeforces.com/contest/2203\nType: ICPC
-URL:https://codeforces.com/contest/2203
-DTSTAMP:20260225T143500Z
 END:VEVENT
 END:VCALENDAR
