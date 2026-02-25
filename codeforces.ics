@@ -24,7 +24,7 @@ DTSTAMP:20260302T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2200@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 3)
+SUMMARY:Codeforces: Codeforces Round 1084 (Div. 3)
 DTSTART:20260227T143500Z
 DTEND:20260227T165000Z
 DESCRIPTION:https://codeforces.com/contest/2200\nType: ICPC
@@ -33,7 +33,7 @@ DTSTAMP:20260227T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2205@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
+SUMMARY:Codeforces: Codeforces Round 1083 (Div. 2)
 DTSTART:20260226T143500Z
 DTEND:20260226T170500Z
 DESCRIPTION:https://codeforces.com/contest/2205\nType: CF
