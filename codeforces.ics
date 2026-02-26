@@ -14,6 +14,15 @@ URL:https://codeforces.com/contest/2204
 DTSTAMP:20260316T143500Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf-2207@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 1 + Div. 2)
+DTSTART:20260308T143500Z
+DTEND:20260308T173500Z
+DESCRIPTION:https://codeforces.com/contest/2207\nType: CF
+URL:https://codeforces.com/contest/2207
+DTSTAMP:20260308T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2206@contest-scraper
 SUMMARY:Codeforces: 2026 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)
 DTSTART:20260308T014500Z
@@ -39,14 +48,5 @@ DTEND:20260227T165000Z
 DESCRIPTION:https://codeforces.com/contest/2200\nType: ICPC
 URL:https://codeforces.com/contest/2200
 DTSTAMP:20260227T143500Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-2205@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1083 (Div. 2)
-DTSTART:20260226T143500Z
-DTEND:20260226T170500Z
-DESCRIPTION:https://codeforces.com/contest/2205\nType: CF
-URL:https://codeforces.com/contest/2205
-DTSTAMP:20260226T143500Z
 END:VEVENT
 END:VCALENDAR
