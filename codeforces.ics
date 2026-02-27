@@ -40,13 +40,4 @@ DESCRIPTION:https://codeforces.com/contest/2199\nType: ICPC
 URL:https://codeforces.com/contest/2199
 DTSTAMP:20260302T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2200@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1084 (Div. 3)
-DTSTART:20260227T143500Z
-DTEND:20260227T165000Z
-DESCRIPTION:https://codeforces.com/contest/2200\nType: ICPC
-URL:https://codeforces.com/contest/2200
-DTSTAMP:20260227T143500Z
-END:VEVENT
 END:VCALENDAR
