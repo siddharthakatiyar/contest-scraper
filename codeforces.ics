@@ -22,13 +22,4 @@ DESCRIPTION:https://codeforces.com/contest/2204\nType: ICPC
 URL:https://codeforces.com/contest/2204
 DTSTAMP:20260316T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2208@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1086 (Div. 2)
-DTSTART:20260314T143500Z
-DTEND:20260314T163500Z
-DESCRIPTION:https://codeforces.com/contest/2208\nType: CF
-URL:https://codeforces.com/contest/2208
-DTSTAMP:20260314T143500Z
-END:VEVENT
 END:VCALENDAR
