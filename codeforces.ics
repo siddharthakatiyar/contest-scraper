@@ -13,13 +13,4 @@ DESCRIPTION:https://codeforces.com/contest/2214\nType: ICPC
 URL:https://codeforces.com/contest/2214
 DTSTAMP:20260401T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2210@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1089 (Div. 2)
-DTSTART:20260329T143500Z
-DTEND:20260329T165000Z
-DESCRIPTION:https://codeforces.com/contest/2210\nType: CF
-URL:https://codeforces.com/contest/2210
-DTSTAMP:20260329T143500Z
-END:VEVENT
 END:VCALENDAR
