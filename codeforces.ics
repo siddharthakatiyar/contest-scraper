@@ -13,13 +13,4 @@ DESCRIPTION:https://codeforces.com/contest/2217\nType: CF
 URL:https://codeforces.com/contest/2217
 DTSTAMP:20260407T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2214@contest-scraper
-SUMMARY:Codeforces: April Fools Day Contest 2026
-DTSTART:20260401T143500Z
-DTEND:20260401T163500Z
-DESCRIPTION:https://codeforces.com/contest/2214\nType: ICPC
-URL:https://codeforces.com/contest/2214
-DTSTAMP:20260401T143500Z
-END:VEVENT
 END:VCALENDAR
