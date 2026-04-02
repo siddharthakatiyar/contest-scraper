@@ -13,4 +13,13 @@ DESCRIPTION:https://codeforces.com/contest/2217\nType: CF
 URL:https://codeforces.com/contest/2217
 DTSTAMP:20260407T143500Z
 END:VEVENT
+BEGIN:VEVENT
+UID:cf-2218@contest-scraper
+SUMMARY:Codeforces: Codeforces Round 1090 (Div. 4)
+DTSTART:20260404T143500Z
+DTEND:20260404T165000Z
+DESCRIPTION:https://codeforces.com/contest/2218\nType: ICPC
+URL:https://codeforces.com/contest/2218
+DTSTAMP:20260404T143500Z
+END:VEVENT
 END:VCALENDAR
