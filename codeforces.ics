@@ -5,6 +5,24 @@ X-WR-CALNAME:Competitive Programming Contests
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:cf-2215@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 1)
+DTSTART:20260412T053500Z
+DTEND:20260412T083500Z
+DESCRIPTION:https://codeforces.com/contest/2215\nType: CF
+URL:https://codeforces.com/contest/2215
+DTSTAMP:20260412T053500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2216@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20260412T053500Z
+DTEND:20260412T083500Z
+DESCRIPTION:https://codeforces.com/contest/2216\nType: CF
+URL:https://codeforces.com/contest/2216
+DTSTAMP:20260412T053500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2217@contest-scraper
 SUMMARY:Codeforces: Codeforces Round 1091 (Div. 2) and CodeCraft 26
 DTSTART:20260407T143500Z
