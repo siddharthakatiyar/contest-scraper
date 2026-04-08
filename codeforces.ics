@@ -40,13 +40,4 @@ DESCRIPTION:https://codeforces.com/contest/2216\nType: CF
 URL:https://codeforces.com/contest/2216
 DTSTAMP:20260412T053500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2186@contest-scraper
-SUMMARY:Codeforces: Midnight Code Cup 2026 Qualification Round
-DTSTART:20260411T120000Z
-DTEND:20260411T150000Z
-DESCRIPTION:https://codeforces.com/contest/2186\nType: IOI
-URL:https://codeforces.com/contest/2186
-DTSTAMP:20260411T120000Z
-END:VEVENT
 END:VCALENDAR
