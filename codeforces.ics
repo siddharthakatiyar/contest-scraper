@@ -31,22 +31,4 @@ DESCRIPTION:https://codeforces.com/contest/2220\nType: CF
 URL:https://codeforces.com/contest/2220
 DTSTAMP:20260413T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2215@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1092 (Unrated, Div. 1, Based on THUPC 2026 — Finals)
-DTSTART:20260412T053500Z
-DTEND:20260412T083500Z
-DESCRIPTION:https://codeforces.com/contest/2215\nType: CF
-URL:https://codeforces.com/contest/2215
-DTSTAMP:20260412T053500Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-2216@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1092 (Unrated, Div. 2, Based on THUPC 2026 — Finals)
-DTSTART:20260412T053500Z
-DTEND:20260412T083500Z
-DESCRIPTION:https://codeforces.com/contest/2216\nType: CF
-URL:https://codeforces.com/contest/2216
-DTSTAMP:20260412T053500Z
-END:VEVENT
 END:VCALENDAR
