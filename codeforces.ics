@@ -6,7 +6,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:cf-2223@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 1)
+SUMMARY:Codeforces: Codeforces Round (Div. 1,  Based on Zhili Cup 2026)
 DTSTART:20260506T060500Z
 DTEND:20260506T083500Z
 DESCRIPTION:https://codeforces.com/contest/2223\nType: CF
@@ -15,12 +15,21 @@ DTSTAMP:20260506T060500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2224@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
+SUMMARY:Codeforces: Codeforces Round (Div. 2,  Based on Zhili Cup 2026)
 DTSTART:20260506T060500Z
 DTEND:20260506T083500Z
 DESCRIPTION:https://codeforces.com/contest/2224\nType: CF
 URL:https://codeforces.com/contest/2224
 DTSTAMP:20260506T060500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2227@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 3)
+DTSTART:20260430T143500Z
+DTEND:20260430T170500Z
+DESCRIPTION:https://codeforces.com/contest/2227\nType: ICPC
+URL:https://codeforces.com/contest/2227
+DTSTAMP:20260430T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2226@contest-scraper
