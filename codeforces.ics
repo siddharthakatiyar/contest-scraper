@@ -40,13 +40,4 @@ DESCRIPTION:https://codeforces.com/contest/2226\nType: CF
 URL:https://codeforces.com/contest/2226
 DTSTAMP:20260428T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2222@contest-scraper
-SUMMARY:Codeforces: Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)
-DTSTART:20260425T143500Z
-DTEND:20260425T170500Z
-DESCRIPTION:https://codeforces.com/contest/2222\nType: CF
-URL:https://codeforces.com/contest/2222
-DTSTAMP:20260425T143500Z
-END:VEVENT
 END:VCALENDAR
