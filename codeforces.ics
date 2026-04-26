@@ -33,7 +33,7 @@ DTSTAMP:20260430T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2226@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
+SUMMARY:Codeforces: Codeforces Round 1095 (Div. 2)
 DTSTART:20260428T143500Z
 DTEND:20260428T165000Z
 DESCRIPTION:https://codeforces.com/contest/2226\nType: CF
