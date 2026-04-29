@@ -33,7 +33,7 @@ DTSTAMP:20260506T060500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2227@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 3)
+SUMMARY:Codeforces: Codeforces Round 1096 (Div. 3)
 DTSTART:20260430T143500Z
 DTEND:20260430T170500Z
 DESCRIPTION:https://codeforces.com/contest/2227\nType: ICPC
