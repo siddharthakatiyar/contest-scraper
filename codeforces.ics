@@ -5,6 +5,15 @@ X-WR-CALNAME:Competitive Programming Contests
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:cf-2232@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20260530T143500Z
+DTEND:20260530T163500Z
+DESCRIPTION:https://codeforces.com/contest/2232\nType: CF
+URL:https://codeforces.com/contest/2232
+DTSTAMP:20260530T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2229@contest-scraper
 SUMMARY:Codeforces: Spectral::Cup 2026 Round 2 (Codeforces Round, Div. 1 + Div. 2)
 DTSTART:20260523T143500Z
