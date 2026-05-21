@@ -22,13 +22,4 @@ DESCRIPTION:https://codeforces.com/contest/2229\nType: CF
 URL:https://codeforces.com/contest/2229
 DTSTAMP:20260523T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2231@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1099 (Div. 2)
-DTSTART:20260521T143500Z
-DTEND:20260521T163500Z
-DESCRIPTION:https://codeforces.com/contest/2231\nType: CF
-URL:https://codeforces.com/contest/2231
-DTSTAMP:20260521T143500Z
-END:VEVENT
 END:VCALENDAR
