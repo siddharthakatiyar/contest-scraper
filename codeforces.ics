@@ -5,6 +5,15 @@ X-WR-CALNAME:Competitive Programming Contests
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:cf-2233@contest-scraper
+SUMMARY:Codeforces: Educational Codeforces Round 191 (Rated for Div. 2)
+DTSTART:20260609T143500Z
+DTEND:20260609T163500Z
+DESCRIPTION:https://codeforces.com/contest/2233\nType: ICPC
+URL:https://codeforces.com/contest/2233
+DTSTAMP:20260609T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2232@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 2)
 DTSTART:20260530T143500Z
