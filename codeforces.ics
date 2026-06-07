@@ -13,13 +13,4 @@ DESCRIPTION:https://codeforces.com/contest/2233\nType: ICPC
 URL:https://codeforces.com/contest/2233
 DTSTAMP:20260609T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2234@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1102 (Div. 2)
-DTSTART:20260607T143500Z
-DTEND:20260607T165000Z
-DESCRIPTION:https://codeforces.com/contest/2234\nType: CF
-URL:https://codeforces.com/contest/2234
-DTSTAMP:20260607T143500Z
-END:VEVENT
 END:VCALENDAR
