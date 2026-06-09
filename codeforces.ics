@@ -13,13 +13,4 @@ DESCRIPTION:https://codeforces.com/contest/2236\nType: ICPC
 URL:https://codeforces.com/contest/2236
 DTSTAMP:20260612T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2233@contest-scraper
-SUMMARY:Codeforces: Educational Codeforces Round 191 (Rated for Div. 2)
-DTSTART:20260609T143500Z
-DTEND:20260609T163500Z
-DESCRIPTION:https://codeforces.com/contest/2233\nType: ICPC
-URL:https://codeforces.com/contest/2233
-DTSTAMP:20260609T143500Z
-END:VEVENT
 END:VCALENDAR
