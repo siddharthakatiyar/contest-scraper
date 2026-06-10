@@ -5,6 +5,15 @@ X-WR-CALNAME:Competitive Programming Contests
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:cf-2237@contest-scraper
+SUMMARY:Codeforces: Order Capital Round 2 (Codeforces Round, Div. 1 + Div. 2)
+DTSTART:20260618T143500Z
+DTEND:20260618T173500Z
+DESCRIPTION:https://codeforces.com/contest/2237\nType: CF
+URL:https://codeforces.com/contest/2237
+DTSTAMP:20260618T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2236@contest-scraper
 SUMMARY:Codeforces: Codeforces Round 1103 (Div. 3)
 DTSTART:20260612T143500Z
