@@ -6,7 +6,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:cf-2237@contest-scraper
-SUMMARY:Codeforces: Order Capital Round 2 (Codeforces Round, Div. 1 + Div. 2)
+SUMMARY:Codeforces: Order Capital Round 2 (Codeforces Round 1104, Div. 1 + Div. 2)
 DTSTART:20260618T143500Z
 DTEND:20260618T173500Z
 DESCRIPTION:https://codeforces.com/contest/2237\nType: CF
