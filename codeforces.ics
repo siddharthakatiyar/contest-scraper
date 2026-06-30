@@ -22,13 +22,4 @@ DESCRIPTION:https://codeforces.com/contest/2242\nType: ICPC
 URL:https://codeforces.com/contest/2242
 DTSTAMP:20260706T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2241@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1107 (Div. 3)
-DTSTART:20260630T143500Z
-DTEND:20260630T165000Z
-DESCRIPTION:https://codeforces.com/contest/2241\nType: ICPC
-URL:https://codeforces.com/contest/2241
-DTSTAMP:20260630T143500Z
-END:VEVENT
 END:VCALENDAR
