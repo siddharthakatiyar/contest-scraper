@@ -17,14 +17,14 @@ BEGIN:VEVENT
 UID:cf-2245@contest-scraper
 SUMMARY:Codeforces: Spectral::Cup 2026 Round 3 (Codeforces Round, Div. 1 + Div. 2)
 DTSTART:20260716T143500Z
-DTEND:20260716T173500Z
+DTEND:20260716T170500Z
 DESCRIPTION:https://codeforces.com/contest/2245\nType: CF
 URL:https://codeforces.com/contest/2245
 DTSTAMP:20260716T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2244@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 3)
+SUMMARY:Codeforces: Codeforces Round 1109 (Div. 3)
 DTSTART:20260714T143500Z
 DTEND:20260714T165000Z
 DESCRIPTION:https://codeforces.com/contest/2244\nType: ICPC
@@ -33,7 +33,7 @@ DTSTAMP:20260714T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2246@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
+SUMMARY:Codeforces: Codeforces Round 1108 (Div. 2)
 DTSTART:20260712T143500Z
 DTEND:20260712T165000Z
 DESCRIPTION:https://codeforces.com/contest/2246\nType: CF
