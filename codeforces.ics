@@ -15,7 +15,7 @@ DTSTAMP:20260718T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2245@contest-scraper
-SUMMARY:Codeforces: Spectral::Cup 2026 Round 3 (Codeforces Round, Div. 1 + Div. 2)
+SUMMARY:Codeforces: Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)
 DTSTART:20260716T143500Z
 DTEND:20260716T170500Z
 DESCRIPTION:https://codeforces.com/contest/2245\nType: CF
