@@ -14,12 +14,21 @@ URL:https://codeforces.com/contest/2248
 DTSTAMP:20260801T113500Z
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-2247@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1111 (Div. 2)
-DTSTART:20260718T143500Z
-DTEND:20260718T163500Z
-DESCRIPTION:https://codeforces.com/contest/2247\nType: CF
-URL:https://codeforces.com/contest/2247
-DTSTAMP:20260718T143500Z
+UID:cf-2249@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 1)
+DTSTART:20260726T143500Z
+DTEND:20260726T170500Z
+DESCRIPTION:https://codeforces.com/contest/2249\nType: CF
+URL:https://codeforces.com/contest/2249
+DTSTAMP:20260726T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2250@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20260726T143500Z
+DTEND:20260726T170500Z
+DESCRIPTION:https://codeforces.com/contest/2250\nType: CF
+URL:https://codeforces.com/contest/2250
+DTSTAMP:20260726T143500Z
 END:VEVENT
 END:VCALENDAR
