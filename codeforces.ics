@@ -15,7 +15,7 @@ DTSTAMP:20260801T113500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2249@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 1)
+SUMMARY:Codeforces: Codeforces Round 1112 (Div. 1)
 DTSTART:20260726T143500Z
 DTEND:20260726T170500Z
 DESCRIPTION:https://codeforces.com/contest/2249\nType: CF
@@ -24,7 +24,7 @@ DTSTAMP:20260726T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2250@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
+SUMMARY:Codeforces: Codeforces Round 1112 (Div. 2)
 DTSTART:20260726T143500Z
 DTEND:20260726T170500Z
 DESCRIPTION:https://codeforces.com/contest/2250\nType: CF
