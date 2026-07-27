@@ -14,8 +14,17 @@ URL:https://codeforces.com/contest/2252
 DTSTAMP:20260806T143500Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf-2253@contest-scraper
+SUMMARY:Codeforces: Educational Codeforces Round 193 (Rated for Div. 2)
+DTSTART:20260806T143500Z
+DTEND:20260806T163500Z
+DESCRIPTION:https://codeforces.com/contest/2253\nType: ICPC
+URL:https://codeforces.com/contest/2253
+DTSTAMP:20260806T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2248@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
+SUMMARY:Codeforces: Codeforces Round 1113 (Div. 2)
 DTSTART:20260801T113500Z
 DTEND:20260801T133500Z
 DESCRIPTION:https://codeforces.com/contest/2248\nType: CF
