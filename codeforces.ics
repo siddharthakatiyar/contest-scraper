@@ -31,13 +31,4 @@ DESCRIPTION:https://codeforces.com/contest/2254\nType: ICPC
 URL:https://codeforces.com/contest/2254
 DTSTAMP:20260804T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2248@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1113 (Div. 2)
-DTSTART:20260801T143500Z
-DTEND:20260801T170500Z
-DESCRIPTION:https://codeforces.com/contest/2248\nType: CF
-URL:https://codeforces.com/contest/2248
-DTSTAMP:20260801T143500Z
-END:VEVENT
 END:VCALENDAR
