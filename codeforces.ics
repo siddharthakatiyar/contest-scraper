@@ -42,7 +42,7 @@ DTSTAMP:20260806T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2254@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 3)
+SUMMARY:Codeforces: Codeforces Round 1114 (Div. 3)
 DTSTART:20260804T143500Z
 DTEND:20260804T165000Z
 DESCRIPTION:https://codeforces.com/contest/2254\nType: ICPC
