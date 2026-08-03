@@ -8,7 +8,7 @@ BEGIN:VEVENT
 UID:cf-2255@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 1)
 DTSTART:20260809T143500Z
-DTEND:20260809T163500Z
+DTEND:20260809T170500Z
 DESCRIPTION:https://codeforces.com/contest/2255\nType: CF
 URL:https://codeforces.com/contest/2255
 DTSTAMP:20260809T143500Z
@@ -17,7 +17,7 @@ BEGIN:VEVENT
 UID:cf-2256@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 2)
 DTSTART:20260809T143500Z
-DTEND:20260809T163500Z
+DTEND:20260809T170500Z
 DESCRIPTION:https://codeforces.com/contest/2256\nType: CF
 URL:https://codeforces.com/contest/2256
 DTSTAMP:20260809T143500Z
