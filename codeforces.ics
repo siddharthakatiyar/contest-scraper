@@ -5,6 +5,15 @@ X-WR-CALNAME:Competitive Programming Contests
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:cf-2251@contest-scraper
+SUMMARY:Codeforces: ICPC 2026 Online Challenge 1 powered by Huawei
+DTSTART:20260814T110000Z
+DTEND:20260828T110000Z
+DESCRIPTION:https://codeforces.com/contest/2251\nType: IOI
+URL:https://codeforces.com/contest/2251
+DTSTAMP:20260814T110000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2255@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 1)
 DTSTART:20260809T143500Z
