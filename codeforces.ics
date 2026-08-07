@@ -40,13 +40,4 @@ DESCRIPTION:https://codeforces.com/contest/2253\nType: ICPC
 URL:https://codeforces.com/contest/2253
 DTSTAMP:20260807T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2252@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1115 (Div. 2)
-DTSTART:20260806T143500Z
-DTEND:20260806T163500Z
-DESCRIPTION:https://codeforces.com/contest/2252\nType: CF
-URL:https://codeforces.com/contest/2252
-DTSTAMP:20260806T143500Z
-END:VEVENT
 END:VCALENDAR
