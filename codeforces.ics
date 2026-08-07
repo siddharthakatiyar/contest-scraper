@@ -31,13 +31,4 @@ DESCRIPTION:https://codeforces.com/contest/2256\nType: CF
 URL:https://codeforces.com/contest/2256
 DTSTAMP:20260809T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2253@contest-scraper
-SUMMARY:Codeforces: Educational Codeforces Round 193 (Rated for Div. 2)
-DTSTART:20260807T143500Z
-DTEND:20260807T163500Z
-DESCRIPTION:https://codeforces.com/contest/2253\nType: ICPC
-URL:https://codeforces.com/contest/2253
-DTSTAMP:20260807T143500Z
-END:VEVENT
 END:VCALENDAR
