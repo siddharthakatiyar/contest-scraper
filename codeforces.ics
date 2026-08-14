@@ -13,13 +13,4 @@ DESCRIPTION:https://codeforces.com/contest/2257\nType: CF
 URL:https://codeforces.com/contest/2257
 DTSTAMP:20260817T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2251@contest-scraper
-SUMMARY:Codeforces: ICPC 2026 Online Challenge 1 powered by Huawei
-DTSTART:20260814T110000Z
-DTEND:20260828T110000Z
-DESCRIPTION:https://codeforces.com/contest/2251\nType: IOI
-URL:https://codeforces.com/contest/2251
-DTSTAMP:20260814T110000Z
-END:VEVENT
 END:VCALENDAR
