@@ -15,7 +15,7 @@ DTSTAMP:20260905T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2258@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
+SUMMARY:Codeforces: Codeforces Round 1118 (Div. 2)
 DTSTART:20260829T143500Z
 DTEND:20260829T163500Z
 DESCRIPTION:https://codeforces.com/contest/2258\nType: CF
