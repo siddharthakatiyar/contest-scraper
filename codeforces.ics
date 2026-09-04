@@ -14,6 +14,24 @@ URL:https://codeforces.com/contest/2261
 DTSTAMP:20261017T143500Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf-2262@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 1)
+DTSTART:20260912T143500Z
+DTEND:20260912T173500Z
+DESCRIPTION:https://codeforces.com/contest/2262\nType: CF
+URL:https://codeforces.com/contest/2262
+DTSTAMP:20260912T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2263@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20260912T143500Z
+DTEND:20260912T173500Z
+DESCRIPTION:https://codeforces.com/contest/2263\nType: CF
+URL:https://codeforces.com/contest/2263
+DTSTAMP:20260912T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2260@contest-scraper
 SUMMARY:Codeforces: Educational Codeforces Round 194 (Rated for Div. 2)
 DTSTART:20260908T143500Z
