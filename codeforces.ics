@@ -15,7 +15,7 @@ DTSTAMP:20261017T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2264@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
+SUMMARY:Codeforces: Codeforces Round 1121 (Div. 2)
 DTSTART:20260913T170500Z
 DTEND:20260913T190500Z
 DESCRIPTION:https://codeforces.com/contest/2264\nType: CF
@@ -24,7 +24,7 @@ DTSTAMP:20260913T170500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2262@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 1)
+SUMMARY:Codeforces: Codeforces Round 1120 (Div. 1)
 DTSTART:20260912T143500Z
 DTEND:20260912T173500Z
 DESCRIPTION:https://codeforces.com/contest/2262\nType: CF
@@ -33,7 +33,7 @@ DTSTAMP:20260912T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2263@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
+SUMMARY:Codeforces: Codeforces Round 1120 (Div. 2)
 DTSTART:20260912T143500Z
 DTEND:20260912T173500Z
 DESCRIPTION:https://codeforces.com/contest/2263\nType: CF
