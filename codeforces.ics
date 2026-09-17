@@ -14,6 +14,33 @@ URL:https://codeforces.com/contest/2261
 DTSTAMP:20261017T143500Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf-2270@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20261011T183500Z
+DTEND:20261011T210500Z
+DESCRIPTION:https://codeforces.com/contest/2270\nType: CF
+URL:https://codeforces.com/contest/2270
+DTSTAMP:20261011T183500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2271@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 1)
+DTSTART:20261010T150500Z
+DTEND:20261010T180500Z
+DESCRIPTION:https://codeforces.com/contest/2271\nType: CF
+URL:https://codeforces.com/contest/2271
+DTSTAMP:20261010T150500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2272@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20261010T150500Z
+DTEND:20261010T180500Z
+DESCRIPTION:https://codeforces.com/contest/2272\nType: CF
+URL:https://codeforces.com/contest/2272
+DTSTAMP:20261010T150500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2268@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 1)
 DTSTART:20260926T143500Z
@@ -42,7 +69,7 @@ DTSTAMP:20260925T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2266@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 3)
+SUMMARY:Codeforces: Codeforces Round 1122 (Div. 3)
 DTSTART:20260921T143500Z
 DTEND:20260921T170500Z
 DESCRIPTION:https://codeforces.com/contest/2266\nType: ICPC
