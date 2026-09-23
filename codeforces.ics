@@ -71,7 +71,7 @@ BEGIN:VEVENT
 UID:cf-2267@contest-scraper
 SUMMARY:Codeforces: Codeforces Round 1123 (Div. 2)
 DTSTART:20260925T143500Z
-DTEND:20260925T163500Z
+DTEND:20260925T165000Z
 DESCRIPTION:https://codeforces.com/contest/2267\nType: CF
 URL:https://codeforces.com/contest/2267
 DTSTAMP:20260925T143500Z
