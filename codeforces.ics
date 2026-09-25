@@ -33,20 +33,11 @@ DTSTAMP:20261011T183500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2271@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 1)
+SUMMARY:Codeforces: Codeforces Round (Div. 1 + Div. 2)
 DTSTART:20261010T150500Z
 DTEND:20261010T180500Z
 DESCRIPTION:https://codeforces.com/contest/2271\nType: CF
 URL:https://codeforces.com/contest/2271
-DTSTAMP:20261010T150500Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-2272@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
-DTSTART:20261010T150500Z
-DTEND:20261010T180500Z
-DESCRIPTION:https://codeforces.com/contest/2272\nType: CF
-URL:https://codeforces.com/contest/2272
 DTSTAMP:20261010T150500Z
 END:VEVENT
 BEGIN:VEVENT
