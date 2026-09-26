@@ -40,22 +40,4 @@ DESCRIPTION:https://codeforces.com/contest/2271\nType: CF
 URL:https://codeforces.com/contest/2271
 DTSTAMP:20261010T150500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2268@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1124 (Div. 1)
-DTSTART:20260926T143500Z
-DTEND:20260926T170500Z
-DESCRIPTION:https://codeforces.com/contest/2268\nType: CF
-URL:https://codeforces.com/contest/2268
-DTSTAMP:20260926T143500Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-2269@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1124 (Div. 2)
-DTSTART:20260926T143500Z
-DTEND:20260926T170500Z
-DESCRIPTION:https://codeforces.com/contest/2269\nType: CF
-URL:https://codeforces.com/contest/2269
-DTSTAMP:20260926T143500Z
-END:VEVENT
 END:VCALENDAR
