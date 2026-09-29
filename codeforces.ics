@@ -6,7 +6,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:cf-2261@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 1 + Div. 2)
+SUMMARY:Codeforces: WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)
 DTSTART:20261017T143500Z
 DTEND:20261017T173500Z
 DESCRIPTION:https://codeforces.com/contest/2261\nType: CF
