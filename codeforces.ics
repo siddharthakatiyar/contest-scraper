@@ -40,4 +40,13 @@ DESCRIPTION:https://codeforces.com/contest/2271\nType: CF
 URL:https://codeforces.com/contest/2271
 DTSTAMP:20261010T150500Z
 END:VEVENT
+BEGIN:VEVENT
+UID:cf-2275@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 3)
+DTSTART:20261007T143500Z
+DTEND:20261007T170500Z
+DESCRIPTION:https://codeforces.com/contest/2275\nType: ICPC
+URL:https://codeforces.com/contest/2275
+DTSTAMP:20261007T143500Z
+END:VEVENT
 END:VCALENDAR
