@@ -14,6 +14,15 @@ URL:https://codeforces.com/contest/2261
 DTSTAMP:20261017T143500Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf-2276@contest-scraper
+SUMMARY:Codeforces: Educational Codeforces Round 195 (Rated for Div. 2)
+DTSTART:20261014T143500Z
+DTEND:20261014T163500Z
+DESCRIPTION:https://codeforces.com/contest/2276\nType: ICPC
+URL:https://codeforces.com/contest/2276
+DTSTAMP:20261014T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2273@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 1)
 DTSTART:20261011T183500Z
