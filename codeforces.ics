@@ -14,6 +14,15 @@ URL:https://codeforces.com/contest/2272
 DTSTAMP:20261026T143500Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf-2277@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20261024T110500Z
+DTEND:20261024T130500Z
+DESCRIPTION:https://codeforces.com/contest/2277\nType: CF
+URL:https://codeforces.com/contest/2277
+DTSTAMP:20261024T110500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2261@contest-scraper
 SUMMARY:Codeforces: WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)
 DTSTART:20261017T143500Z
