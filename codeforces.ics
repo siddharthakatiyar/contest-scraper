@@ -5,6 +5,15 @@ X-WR-CALNAME:Competitive Programming Contests
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:cf-2278@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 3)
+DTSTART:20261029T143500Z
+DTEND:20261029T165000Z
+DESCRIPTION:https://codeforces.com/contest/2278\nType: ICPC
+URL:https://codeforces.com/contest/2278
+DTSTAMP:20261029T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2272@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 2)
 DTSTART:20261026T143500Z
@@ -21,14 +30,5 @@ DTEND:20261024T130500Z
 DESCRIPTION:https://codeforces.com/contest/2277\nType: CF
 URL:https://codeforces.com/contest/2277
 DTSTAMP:20261024T110500Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-2261@contest-scraper
-SUMMARY:Codeforces: WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)
-DTSTART:20261017T143500Z
-DTEND:20261017T173500Z
-DESCRIPTION:https://codeforces.com/contest/2261\nType: CF
-URL:https://codeforces.com/contest/2261
-DTSTAMP:20261017T143500Z
 END:VEVENT
 END:VCALENDAR
