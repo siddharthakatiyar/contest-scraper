@@ -5,6 +5,33 @@ X-WR-CALNAME:Competitive Programming Contests
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:cf-2279@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 1)
+DTSTART:20261107T143500Z
+DTEND:20261107T170500Z
+DESCRIPTION:https://codeforces.com/contest/2279\nType: CF
+URL:https://codeforces.com/contest/2279
+DTSTAMP:20261107T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2280@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20261107T143500Z
+DTEND:20261107T170500Z
+DESCRIPTION:https://codeforces.com/contest/2280\nType: CF
+URL:https://codeforces.com/contest/2280
+DTSTAMP:20261107T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2281@contest-scraper
+SUMMARY:Codeforces: ICPC 2026 Online Challenge 2 powered by Huawei
+DTSTART:20261105T110000Z
+DTEND:20261119T110000Z
+DESCRIPTION:https://codeforces.com/contest/2281\nType: IOI
+URL:https://codeforces.com/contest/2281
+DTSTAMP:20261105T110000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2278@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 3)
 DTSTART:20261031T143500Z
