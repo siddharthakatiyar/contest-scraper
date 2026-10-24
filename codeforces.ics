@@ -49,13 +49,4 @@ DESCRIPTION:https://codeforces.com/contest/2272\nType: CF
 URL:https://codeforces.com/contest/2272
 DTSTAMP:20261026T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2277@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1129 (Div. 2)
-DTSTART:20261024T110500Z
-DTEND:20261024T132000Z
-DESCRIPTION:https://codeforces.com/contest/2277\nType: CF
-URL:https://codeforces.com/contest/2277
-DTSTAMP:20261024T110500Z
-END:VEVENT
 END:VCALENDAR
