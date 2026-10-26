@@ -5,6 +5,15 @@ X-WR-CALNAME:Competitive Programming Contests
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:cf-2282@contest-scraper
+SUMMARY:Codeforces: Kotlin Heroes: Episode 15
+DTSTART:20261127T143500Z
+DTEND:20261127T170500Z
+DESCRIPTION:https://codeforces.com/contest/2282\nType: ICPC
+URL:https://codeforces.com/contest/2282
+DTSTAMP:20261127T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2279@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 1)
 DTSTART:20261107T143500Z
