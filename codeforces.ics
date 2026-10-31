@@ -67,13 +67,4 @@ DESCRIPTION:https://codeforces.com/contest/2283\nType: ICPC
 URL:https://codeforces.com/contest/2283
 DTSTAMP:20261104T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2278@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1131 (Div. 3)
-DTSTART:20261031T143500Z
-DTEND:20261031T165000Z
-DESCRIPTION:https://codeforces.com/contest/2278\nType: ICPC
-URL:https://codeforces.com/contest/2278
-DTSTAMP:20261031T143500Z
-END:VEVENT
 END:VCALENDAR
