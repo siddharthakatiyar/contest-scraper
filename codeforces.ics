@@ -59,15 +59,6 @@ URL:https://codeforces.com/contest/2284
 DTSTAMP:20261106T143500Z
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-2281@contest-scraper
-SUMMARY:Codeforces: ICPC 2026 Online Challenge 2 powered by Huawei
-DTSTART:20261105T110000Z
-DTEND:20261119T110000Z
-DESCRIPTION:https://codeforces.com/contest/2281\nType: IOI
-URL:https://codeforces.com/contest/2281
-DTSTAMP:20261105T110000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:cf-2283@contest-scraper
 SUMMARY:Codeforces: Educational Codeforces Round 196 (Rated for Div. 2)
 DTSTART:20261104T143500Z
