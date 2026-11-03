@@ -23,6 +23,24 @@ URL:https://codeforces.com/contest/2286
 DTSTAMP:20261201T143000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf-2287@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 1)
+DTSTART:20261121T143500Z
+DTEND:20261121T163500Z
+DESCRIPTION:https://codeforces.com/contest/2287\nType: CF
+URL:https://codeforces.com/contest/2287
+DTSTAMP:20261121T143500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2288@contest-scraper
+SUMMARY:Codeforces: Codeforces Round (Div. 2)
+DTSTART:20261121T143500Z
+DTEND:20261121T163500Z
+DESCRIPTION:https://codeforces.com/contest/2288\nType: CF
+URL:https://codeforces.com/contest/2288
+DTSTAMP:20261121T143500Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2285@contest-scraper
 SUMMARY:Codeforces: Codeforces Round (Div. 2)
 DTSTART:20261115T143500Z
