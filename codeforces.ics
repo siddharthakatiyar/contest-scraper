@@ -51,7 +51,7 @@ DTSTAMP:20261115T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2279@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 1)
+SUMMARY:Codeforces: Codeforces Round 1133 (Div. 1)
 DTSTART:20261107T143500Z
 DTEND:20261107T170500Z
 DESCRIPTION:https://codeforces.com/contest/2279\nType: CF
@@ -60,7 +60,7 @@ DTSTAMP:20261107T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2280@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
+SUMMARY:Codeforces: Codeforces Round 1133 (Div. 2)
 DTSTART:20261107T143500Z
 DTEND:20261107T170500Z
 DESCRIPTION:https://codeforces.com/contest/2280\nType: CF
@@ -69,20 +69,11 @@ DTSTAMP:20261107T143500Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2284@contest-scraper
-SUMMARY:Codeforces: Codeforces Round (Div. 2)
+SUMMARY:Codeforces: Codeforces Round 1132 (Div. 2)
 DTSTART:20261106T143500Z
 DTEND:20261106T165000Z
 DESCRIPTION:https://codeforces.com/contest/2284\nType: CF
 URL:https://codeforces.com/contest/2284
 DTSTAMP:20261106T143500Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-2283@contest-scraper
-SUMMARY:Codeforces: Educational Codeforces Round 196 (Rated for Div. 2)
-DTSTART:20261104T143500Z
-DTEND:20261104T163500Z
-DESCRIPTION:https://codeforces.com/contest/2283\nType: ICPC
-URL:https://codeforces.com/contest/2283
-DTSTAMP:20261104T143500Z
 END:VEVENT
 END:VCALENDAR
