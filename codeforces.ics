@@ -49,13 +49,4 @@ DESCRIPTION:https://codeforces.com/contest/2288\nType: CF
 URL:https://codeforces.com/contest/2288
 DTSTAMP:20261121T143500Z
 END:VEVENT
-BEGIN:VEVENT
-UID:cf-2285@contest-scraper
-SUMMARY:Codeforces: Codeforces Round 1135 (Div. 2)
-DTSTART:20261115T143500Z
-DTEND:20261115T163500Z
-DESCRIPTION:https://codeforces.com/contest/2285\nType: CF
-URL:https://codeforces.com/contest/2285
-DTSTAMP:20261115T143500Z
-END:VEVENT
 END:VCALENDAR
