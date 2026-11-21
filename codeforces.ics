@@ -14,6 +14,15 @@ URL:https://codeforces.com/contest/2282
 DTSTAMP:20261208T143500Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf-2291@contest-scraper
+SUMMARY:Codeforces: ICPC 2026 Online Challenge 2 powered by Huawei
+DTSTART:20261208T110000Z
+DTEND:20261222T110000Z
+DESCRIPTION:https://codeforces.com/contest/2291\nType: IOI
+URL:https://codeforces.com/contest/2291
+DTSTAMP:20261208T110000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2286@contest-scraper
 SUMMARY:Codeforces: Kotlin Heroes: Practice 15
 DTSTART:20261201T143000Z
